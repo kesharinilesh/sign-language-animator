@@ -9,7 +9,6 @@ This system can be used to bridge the communication gap between hearing-impaired
 
 - Python
 - OpenCV for computer vision
-- Pre-trained TensorFlow Model 
 - mediapipe for hand and landmark detection
 - Pandas for data manipulation
 - Seaborn and Matplotlib for data visualization
